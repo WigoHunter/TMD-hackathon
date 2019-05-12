@@ -1,0 +1,39 @@
+{ "sd":
+	{ "avg": -1.1216216216216217,
+	  "stdDev": 1.923908625005445,
+	  "pos": 9,
+	  "neg": 47,
+	  "neu": 18,
+	  "length": 74 },
+   "topWords": [ "ban", "no", "good", "big", "kind" ],
+   "topTweets":
+	[ { "text":
+		 "COMRADE BILL DE BLASIO has moved on from Meatless Mondays to Skyscraper-less Cities. No steel and glass anymore for… https://t.co/52zlXz3Y3t",
+		"likes": 1477,
+		"rts": 466,
+		"total": 1943,
+		"user": { "pic":
+			"https://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+		   "name": "seanhannity",
+		   "location": "NYC" },
+		"sentiment": 0 },
+	  { "text":
+		 "Too easy, but this guy is the biggest jerkoff ever.\n\nhttps://t.co/fgsvqU3JoB",
+		"likes": 73,
+		"rts": 4,
+		"total": 77,
+		"user": { "pic":
+			"https://pbs.twimg.com/profile_images/1091335921901932546/CVrifWPr_normal.jpg",
+		   "name": "dailydirtnap",
+		   "location": "Myrtle Beach, SC" },
+		"sentiment": 0 },
+	  { "text":
+		 ".@AOC wants to tear down every building in America and @BilldeBlasio wants to ban skyscrapers made from glass and s… https://t.co/KEZIycNb6m",
+		"likes": 38,
+		"rts": 12,
+		"total": 50,
+		"user": { "pic":
+			"https://pbs.twimg.com/profile_images/552138920071155714/6nxm8kBJ_normal.jpeg",
+		   "name": "NewYorkGOP",
+		   "location": "New York" },
+		"sentiment": 0 } ] }
